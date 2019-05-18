@@ -1,0 +1,12 @@
+.charsList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+}
+.char-card {
+  background: rgba(255, 255, 255, 0.2);
+  width: 50%;
+  margin: 20px 0;
+}
